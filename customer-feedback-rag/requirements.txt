@@ -1,0 +1,8 @@
+python-dotenv
+openai
+flask
+requests
+numpy
+pandas
+faker
+supabase

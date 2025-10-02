@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Feedback Analysis</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Customer Feedback Analysis</h1>
+            <p>Ask a question about customer feedback and get AI-powered insights.</p>
+        </header>
+        <div class="chat-container" id="chat-container">
+            <!-- Chat messages will be appended here -->
+        </div>
+        <div class="input-container">
+            <textarea id="query-input" placeholder="e.g., What are customers saying about integrations?"></textarea>
+            <button id="send-button">Send</button>
+        </div>
+        <div class="citations-container" id="citations-container">
+            <h2>Cited Feedback</h2>
+            <div id="citations-content">
+                <!-- Cited feedback will be displayed here -->
+            </div>
+        </div>
+    </div>
+    <script src="/static/app.js"></script>
+</body>
+</html>

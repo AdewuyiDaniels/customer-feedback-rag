@@ -1,0 +1,101 @@
+feedback_id,customer_segment,feedback_text,rating,date,source_type
+1,Startup,It would be great if we could customize the color scheme of the dashboard.,5,2025-08-30,survey
+2,SMB,This product has been a lifesaver for our team. Thank you!,5,2025-09-03,review
+3,SMB,I never received a response to my support ticket.,1,2025-09-20,survey
+4,SMB,The login page is not working on the Firefox browser.,1,2025-08-30,review
+5,Enterprise,The UI for the reporting feature could be more intuitive.,3,2025-08-23,survey
+6,SMB,I'm very impressed with the new features in the latest update.,5,2025-08-29,survey
+7,Enterprise,The pricing is a bit too high for a startup like ours.,2,2025-07-08,review
+8,Startup,This product has been a lifesaver for our team. Thank you!,5,2025-09-03,survey
+9,Enterprise,A mobile app would be a game-changer for our team.,3,2025-08-12,survey
+10,SMB,The customer support team was very helpful and resolved my issue quickly.,2,2025-07-18,review
+11,SMB,Can you please add support for PDF files?,4,2025-09-20,review
+12,SMB,I would highly recommend this product to anyone.,5,2025-07-17,survey
+13,Enterprise,The user interface is so clean and easy to use.,5,2025-08-26,survey
+14,SMB,I never received a response to my support ticket.,2,2025-07-29,survey
+15,Startup,A mobile app would be a game-changer for our team.,5,2025-08-15,review
+16,Enterprise,Your documentation is excellent and helped me solve the problem myself.,2,2025-08-26,survey
+17,Enterprise,The UI for the reporting feature could be more intuitive.,5,2025-07-25,survey
+18,Startup,Your documentation is excellent and helped me solve the problem myself.,5,2025-07-10,survey
+19,Enterprise,I never received a response to my support ticket.,5,2025-09-23,survey
+20,Startup,The customer support team was very helpful and resolved my issue quickly.,1,2025-08-17,survey
+21,Startup,I'm getting a 500 error when I try to access the settings page.,1,2025-09-29,survey
+22,SMB,The new update seems to have broken the export functionality.,3,2025-08-23,survey
+23,Enterprise,Your documentation is excellent and helped me solve the problem myself.,4,2025-07-25,review
+24,Enterprise,The pricing is a bit too high for a startup like ours.,2,2025-08-24,survey
+25,SMB,The UI for the collaboration feature could be more intuitive.,3,2025-07-26,review
+26,Enterprise,The new update seems to have broken the import functionality.,3,2025-07-29,review
+27,Enterprise,The live chat support is a great feature.,4,2025-08-27,survey
+28,Startup,My data is not syncing correctly between devices.,2,2025-07-13,survey
+29,SMB,Your documentation is excellent and helped me solve the problem myself.,2,2025-07-18,review
+30,SMB,Are there any discounts available for non-profit organizations?,2,2025-09-10,review
+31,SMB,The UI for the reporting feature could be more intuitive.,3,2025-09-01,review
+32,Startup,The UI for the collaboration feature could be more intuitive.,5,2025-08-29,survey
+33,Enterprise,I would highly recommend this product to anyone.,5,2025-08-07,survey
+34,Enterprise,I'm very impressed with the new features in the latest update.,5,2025-07-30,review
+35,Enterprise,We need a more flexible pricing plan for our seasonal business.,2,2025-09-09,review
+36,SMB,I'm very impressed with the new features in the latest update.,5,2025-09-02,review
+37,Enterprise,The live chat support is a great feature.,2,2025-07-28,survey
+38,SMB,The new update seems to have broken the import functionality.,1,2025-07-10,survey
+39,Enterprise,I never received a response to my support ticket.,5,2025-07-21,review
+40,SMB,I never received a response to my support ticket.,4,2025-09-09,survey
+41,Startup,The new update seems to have broken the export functionality.,3,2025-07-26,survey
+42,SMB,We need a more flexible pricing plan for our seasonal business.,2,2025-08-18,review
+43,Enterprise,I'm very impressed with the new features in the latest update.,5,2025-10-01,survey
+44,Enterprise,The customer support team was very helpful and resolved my issue quickly.,2,2025-09-26,review
+45,Startup,We would love to see an integration with Lucero Group.,3,2025-07-18,survey
+46,Enterprise,The cost of the Enterprise plan is not justified by the features.,2,2025-08-11,survey
+47,Enterprise,My data is not syncing correctly between devices.,3,2025-09-06,survey
+48,Enterprise,The customer support team was very helpful and resolved my issue quickly.,2,2025-09-13,survey
+49,Enterprise,Can you please add support for XLSX files?,5,2025-08-02,review
+50,SMB,The customer support team was very helpful and resolved my issue quickly.,5,2025-10-01,review
+51,Enterprise,The user interface is so clean and easy to use.,5,2025-08-22,review
+52,SMB,I never received a response to my support ticket.,5,2025-09-08,review
+53,Startup,The UI for the reporting feature could be more intuitive.,3,2025-09-13,review
+54,SMB,It would be great if we could customize the color scheme of the dashboard.,5,2025-08-04,survey
+55,SMB,Are there any discounts available for non-profit organizations?,3,2025-09-14,survey
+56,Startup,Can you please add support for XLSX files?,3,2025-07-28,review
+57,Enterprise,A mobile app would be a game-changer for our team.,4,2025-08-26,review
+58,SMB,I never received a response to my support ticket.,1,2025-09-26,survey
+59,Enterprise,A mobile app would be a game-changer for our team.,4,2025-09-07,review
+60,Startup,The app crashes every time I try to upload a video file.,3,2025-08-14,review
+61,Startup,The new update seems to have broken the import functionality.,1,2025-08-18,survey
+62,Startup,Your customer service is top-notch.,5,2025-08-07,review
+63,Startup,I never received a response to my support ticket.,4,2025-07-07,survey
+64,Enterprise,The new update seems to have broken the search functionality.,2,2025-09-20,review
+65,SMB,My data is not syncing correctly between devices.,1,2025-09-21,review
+66,Enterprise,Your customer service is top-notch.,5,2025-08-21,review
+67,SMB,We need a more flexible pricing plan for our seasonal business.,2,2025-07-30,survey
+68,Startup,The cost of the Enterprise plan is not justified by the features.,3,2025-08-07,survey
+69,Enterprise,It would be great if we could customize the color scheme of the dashboard.,4,2025-08-31,survey
+70,SMB,The new update seems to have broken the search functionality.,2,2025-08-08,survey
+71,Enterprise,The pricing is a bit too high for a startup like ours.,2,2025-09-29,survey
+72,SMB,Are there any discounts available for non-profit organizations?,4,2025-08-16,survey
+73,SMB,The login page is not working on the Firefox browser.,1,2025-09-04,survey
+74,SMB,The login page is not working on the Chrome browser.,2,2025-07-15,review
+75,Enterprise,A mobile app would be a game-changer for our team.,3,2025-09-29,review
+76,SMB,The customer support team was very helpful and resolved my issue quickly.,2,2025-08-04,review
+77,Startup,"I was on hold for over an hour, and the support agent was not helpful.",2,2025-07-27,review
+78,SMB,"I was on hold for over an hour, and the support agent was not helpful.",2,2025-07-11,review
+79,Startup,I would highly recommend this product to anyone.,5,2025-08-26,review
+80,Enterprise,I'm very impressed with the new features in the latest update.,5,2025-08-03,review
+81,Startup,Are there any discounts available for non-profit organizations?,2,2025-08-28,survey
+82,SMB,The new update seems to have broken the import functionality.,2,2025-09-28,review
+83,SMB,We need a more flexible pricing plan for our seasonal business.,4,2025-09-05,review
+84,Enterprise,The login page is not working on the Safari browser.,3,2025-09-28,review
+85,Enterprise,The UI for the analytics feature could be more intuitive.,5,2025-07-31,survey
+86,Startup,Are there any discounts available for non-profit organizations?,4,2025-09-29,survey
+87,SMB,"We would love to see an integration with Meadows, Colon and Perry.",3,2025-08-15,survey
+88,SMB,The live chat support is a great feature.,4,2025-08-23,survey
+89,SMB,The UI for the analytics feature could be more intuitive.,5,2025-08-16,review
+90,Enterprise,I never received a response to my support ticket.,2,2025-07-28,survey
+91,Enterprise,I'm confused about the billing structure. Can you clarify?,4,2025-09-25,survey
+92,Startup,The UI for the collaboration feature could be more intuitive.,4,2025-08-13,review
+93,Enterprise,Are there any discounts available for non-profit organizations?,3,2025-09-23,survey
+94,Startup,My data is not syncing correctly between devices.,1,2025-07-14,survey
+95,SMB,I'm very impressed with the new features in the latest update.,5,2025-08-29,survey
+96,Startup,The cost of the Basic plan is not justified by the features.,3,2025-07-29,review
+97,SMB,"I was on hold for over an hour, and the support agent was not helpful.",2,2025-08-18,survey
+98,Startup,The login page is not working on the Chrome browser.,1,2025-07-29,review
+99,SMB,I'm very impressed with the new features in the latest update.,5,2025-07-13,survey
+100,Enterprise,The live chat support is a great feature.,4,2025-07-27,survey
